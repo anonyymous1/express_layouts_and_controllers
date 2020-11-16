@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/anonyymous1/express_layouts_and_controllers/issues"
   },
-  "homepage": "https://github.com/anonyymous1/express_layouts_and_controllers#readme"
+  "homepage": "https://github.com/anonyymous1/express_layouts_and_controllers#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
